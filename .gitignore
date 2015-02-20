@@ -1,0 +1,8 @@
+/TradosConverter/Debug
+/3rdparty/xerces-c-3.1.1/Build
+/Debug
+/BoostXML/Debug
+*.opensdf
+*.sdf
+*.suo
+/TradosConverter/TECH_EN_RU.tmx

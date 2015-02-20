@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+<header
+	 creationtool="TRADOS Translator's Workbench for Windows"
+	 creationtoolversion="Edition 8 Build 863"
+	 segtype="sentence"
+	 o-tmf="TW4Win 2.0 Format"
+	 adminlang="EN-US"
+	 srclang="EN-US"
+	 datatype="rtf"
+	 creationdate="20131224T154209Z"
+	 creationid="NADIA"
+>
+<prop type="RTFFontTable">
+{\fonttbl 
+{\f1 \fmodern\fprq1 \fcharset0 Courier New;}
+}</prop>
+<prop type="RTFStyleSheet">
+{\stylesheet 
+{\St \s0 {\StN Normal}}
+}</prop>
+<prop type="Name">TECH_EN_RU</prop>
+</header>
+
+<body>
+<tu creationdate="20121214T161524Z" creationid="OLGA KIRILOVICH">
+<tuv xml:lang="EN-US">
+<seg>expndtw2</seg>
+</tuv>
+<tuv xml:lang="RU-RU">
+<seg>24В2</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20121214T161524Z" creationid="OLGA KIRILOVICH">
+<tuv xml:lang="EN-US">
+<seg><ut>{\expndtw2 </ut>24<ut>}</ut>V</seg>
+</tuv>
+<tuv xml:lang="RU-RU">
+<seg>24В</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20131225T103507Z" creationid="NADIA">
+<tuv xml:lang="EN-US">
+<seg>Nominal weight of heat</seg>
+</tuv>
+<tuv xml:lang="RU-RU">
+<seg>Номинальный вес плавки</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20131225T103556Z" creationid="NADIA">
+<tuv xml:lang="EN-US">
+<seg>Sulphide shape control, pre-treatment</seg>
+</tuv>
+<tuv xml:lang="RU-RU">
+<seg>Метод контроля формы сульфида, предварительная обработка</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20131225T103654Z" creationid="NADIA">
+<tuv xml:lang="EN-US">
+<seg>Continuous Casting technique – size and weight of ingots/skelps/slabs</seg>
+</tuv>
+<tuv xml:lang="RU-RU">
+<seg>Метод непрерывного литья — размер и вес чушек/штрипса/слябов</seg>
+</tuv>
+</tu>
+
+<tu creationdate="20131225T103707Z" creationid="NADIA">
+<tuv xml:lang="EN-US">
+<seg>Hydrogen control practices for slabs used to make plate greater than 20 mm (0.78 in) thick.</seg>
+</tuv>
+<tuv xml:lang="RU-RU">
+<seg>Методы регулирования содержания водорода для слябов, используемых для придания листу толщины более 20 мм (0,78 дюйма).</seg>
+</tuv>
+</tu>
+
+</body>
+</tmx>

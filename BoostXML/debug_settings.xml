@@ -1,0 +1,19 @@
+<debug>
+    <filename>debug.log</filename>
+    <modules>
+        <module>Finance</module>
+        <module>Admin</module>
+        <module>HR</module>
+    </modules>
+    <Node>
+        <Type>XET</Type>
+        <Reference>00110232</Reference>
+        <Date>02-09-2012</Date>
+    </Node>
+    <Node>
+        <Type>XET</Type>
+        <Reference>000000</Reference>
+        <Date>02-09-2012</Date>
+    </Node>
+    <level>2</level>
+</debug>
